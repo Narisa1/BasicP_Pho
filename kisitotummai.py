@@ -3,7 +3,6 @@ w1 = 60
 w2 = 20
 w3 = 30
 
-
 gamestart = True
 
 while gamestart:
